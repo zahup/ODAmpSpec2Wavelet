@@ -1,2 +1,2 @@
 # ODAmpSpec2Wavelet
-Convert amplitude spectrum from OD to a constant phase wavelet
+Convert amplitude spectrum exported from OD to a constant phase wavelet
